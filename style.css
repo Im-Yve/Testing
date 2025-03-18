@@ -1,0 +1,93 @@
+.flex{
+    display: flex;
+    flex-wrap: wrap;
+    background-color: brown;
+}
+
+.flex div{
+    background-color: black;
+    color: wheat;
+    padding: 20px;
+    margin: 10px;
+    width: 5%;
+}
+
+
+.flex-direction-col{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    background-color: brown;
+}
+
+.flex-direction-col div{
+    background-color: black;
+    color: wheat;
+    padding: 20px;
+    margin: 10px;
+    width: 5%;
+}
+
+
+.flex-direction-row{
+    display: flex;
+    flex-wrap: wrap; 
+    flex-direction: row;
+    background-color: brown;
+}
+
+.flex-direction-row div{
+    background-color: black;
+    color: wheat;
+    padding: 20px;
+    margin: 10px;
+    width: 5%;
+}
+
+
+.flex-direction-colrev{
+    display: flex;
+    flex-wrap: wrap; 
+    flex-direction: column-reverse;
+    background-color: brown;
+}
+
+.flex-direction-colrev div{
+    background-color: black;
+    color: wheat;
+    padding: 20px;
+    margin: 10px;
+    width: 5%;
+}
+
+
+.flex-direction-rowrev{
+    display: flex;
+    flex-wrap: wrap; 
+    flex-direction: row-reverse;
+    background-color: brown;
+}
+
+.flex-direction-rowrev div{
+    background-color: black;
+    color: wheat;
+    padding: 20px;
+    margin: 10px;
+    width: 5%;
+}
+
+
+.flex-wraprev{
+    display: flex;
+    flex-wrap: wrap-reverse; 
+    background-color: brown;
+}
+
+.flex-wraprev div{
+    background-color: black;
+    color: wheat;
+    padding: 20px;
+    margin: 10px;
+    width: 5%;
+}
+
